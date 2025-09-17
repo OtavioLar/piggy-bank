@@ -20,8 +20,7 @@ src/
     ├── Dolar.java        # US Dollar implementation
     ├── Euro.java         # Euro implementation
     └── Principal.java    # Main class to run the program
-
-
+```
 ---
 
 ## ✨ Features
