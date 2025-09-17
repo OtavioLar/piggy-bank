@@ -11,6 +11,7 @@ It is not an app with a graphical interface — instead, it is **pure open-sourc
 
 ## 📂 Project Structure
 
+```text
 src/
 └── empresa/
     ├── Cofrinho.java     # Manages the piggy bank operations
@@ -19,6 +20,7 @@ src/
     ├── Dolar.java        # US Dollar implementation
     ├── Euro.java         # Euro implementation
     └── Principal.java    # Main class to run the program
+
 
 ---
 
