@@ -13,15 +13,12 @@ It is not an app with a graphical interface — instead, it is **pure open-sourc
 
 src/
 └── empresa/
-├── Cofrinho.java # Manages the piggy bank operations
-├── Moeda.java # Abstract base class for coins
-├── Real.java # Brazilian Real implementation
-├── Dolar.java # US Dollar implementation
-├── Euro.java # Euro implementation
-└── Principal.java # Main class to run the program
-
-yaml
-Copiar código
+    ├── Cofrinho.java     # Manages the piggy bank operations
+    ├── Moeda.java        # Abstract base class for coins
+    ├── Real.java         # Brazilian Real implementation
+    ├── Dolar.java        # US Dollar implementation
+    ├── Euro.java         # Euro implementation
+    └── Principal.java    # Main class to run the program
 
 ---
 
